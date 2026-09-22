@@ -46,7 +46,7 @@ Below is the live walkthrough of the **Shree Balaji Tiffin Platform**, showcasin
 > **High-Converting Customer Touchpoint**: Designed with warm homestyle aesthetics, verified trust badges, live kitchen operating status, and 1-tap conversion triggers.
 
 <p align="center">
-  <img src="./assets/screenshots/HomePage.png" alt="Customer Landing Page - Shree Balaji Tiffin" width="100%" />
+  <img src="src/assets/screenshots/HomePage.png" alt="Customer Landing Page - Shree Balaji Tiffin" width="100%" />
 </p>
 
 - **Core Engineering Highlights**:
@@ -61,7 +61,7 @@ Below is the live walkthrough of the **Shree Balaji Tiffin Platform**, showcasin
 > **Dynamic Daily Thali Inspector**: Eliminates meal subscription fatigue through a 7-day rotating homestyle menu with macro-nutritional transparency.
 
 <p align="center">
-  <img src="./assets/screenshots/WeaklyMenu.png" alt="Weekly Menu Planner - Shree Balaji Tiffin" width="100%" />
+  <img src="src/assets/screenshots/WeaklyMenu.png" alt="Weekly Menu Planner - Shree Balaji Tiffin" width="100%" />
 </p>
 
 - **Core Engineering Highlights**:
@@ -76,7 +76,7 @@ Below is the live walkthrough of the **Shree Balaji Tiffin Platform**, showcasin
 > **Zero-Friction Checkout Engine**: Frictionless single-screen booking modal with integrated area validation, dietary customization, and multi-channel payment selection.
 
 <p align="center">
-  <img src="./assets/screenshots/FoodOrder.png" alt="Food Order Booking Modal - Shree Balaji Tiffin" width="100%" />
+  <img src="src/assets/screenshots/FoodOrder.png" alt="Food Order Booking Modal - Shree Balaji Tiffin" width="100%" />
 </p>
 
 - **Core Engineering Highlights**:
@@ -91,7 +91,7 @@ Below is the live walkthrough of the **Shree Balaji Tiffin Platform**, showcasin
 > **Single-Slot Enterprise Security Portal**: Role-Based Access Control (RBAC) interface with auto-lock mechanics preventing administrative credential hijacking.
 
 <p align="center">
-  <img src="./assets/screenshots/AdminPortal.png" alt="Admin Security Portal - Shree Balaji Tiffin" width="100%" />
+  <img src="src/assets/screenshots/AdminPortal.png" alt="Admin Security Portal - Shree Balaji Tiffin" width="100%" />
 </p>
 
 - **Core Engineering Highlights**:
