@@ -1,0 +1,6 @@
+{
+  "name": "Shree Balaji Home Tiffin Services",
+  "description": "Fresh, hygienic, and homemade Indian tiffin and meal delivery service in Lucknow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
