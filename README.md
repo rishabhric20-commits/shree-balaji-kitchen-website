@@ -26,7 +26,7 @@
 
 ---
 
-## 💼 Resume-Ready Impact Bullets (For Portfolio & CV)
+## 💼 Impact Bullets point.
 
 - *Architected a full-stack food logistics application using React 19, Node.js/Express, Bootstrap 5.3, and Supabase PostgreSQL, reducing order processing latency by 60%.*
 - *Implemented real-time kitchen dispatch using Server-Sent Events (SSE) and client-side audio alerts, providing instantaneous notification on incoming meal bookings.*
@@ -42,7 +42,7 @@ Below is the live walkthrough of the **Shree Balaji Tiffin Platform**, showcasin
 
 ---
 
-### 1. 🏠 Customer Landing & Discovery Experience (`HomePage.jpg.png`)
+### 1. 🏠 Customer Landing & Discovery Experience (`HomePage.png`)
 > **High-Converting Customer Touchpoint**: Designed with warm homestyle aesthetics, verified trust badges, live kitchen operating status, and 1-tap conversion triggers.
 
 <p align="center">
@@ -57,7 +57,7 @@ Below is the live walkthrough of the **Shree Balaji Tiffin Platform**, showcasin
 
 ---
 
-### 2. 📅 Interactive Rotational Weekly Menu Matrix (`WeaklyMenu.jpg.png`)
+### 2. 📅 Interactive Rotational Weekly Menu Matrix (`WeaklyMenu.png`)
 > **Dynamic Daily Thali Inspector**: Eliminates meal subscription fatigue through a 7-day rotating homestyle menu with macro-nutritional transparency.
 
 <p align="center">
@@ -72,7 +72,7 @@ Below is the live walkthrough of the **Shree Balaji Tiffin Platform**, showcasin
 
 ---
 
-### 3. 🍱 1-Click Trial Meal Booking & Area Verification (`FoodOrder.jpg.png`)
+### 3. 🍱 1-Click Trial Meal Booking & Area Verification (`FoodOrder.png`)
 > **Zero-Friction Checkout Engine**: Frictionless single-screen booking modal with integrated area validation, dietary customization, and multi-channel payment selection.
 
 <p align="center">
@@ -87,7 +87,7 @@ Below is the live walkthrough of the **Shree Balaji Tiffin Platform**, showcasin
 
 ---
 
-### 4. 🛡️ Master Operations & Admin Control Hub (`AdminPortal.jpg.png`)
+### 4. 🛡️ Master Operations & Admin Control Hub (`AdminPortal.png`)
 > **Single-Slot Enterprise Security Portal**: Role-Based Access Control (RBAC) interface with auto-lock mechanics preventing administrative credential hijacking.
 
 <p align="center">
