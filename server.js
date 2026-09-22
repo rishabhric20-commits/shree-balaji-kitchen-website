@@ -346,7 +346,7 @@ app.post('/api/admin/login', (req, res) => {
     target === currentEmail ||
     target === 'admin' ||
     target === 'balaji_admin' ||
-    target === 'rishabhric20@gmail.com'
+    (process.env.ADMIN_EMAIL && target === process.env.ADMIN_EMAIL.toLowerCase())
   );
 
   const trimmedPassword = password.trim();
@@ -403,7 +403,7 @@ app.post('/api/admin/forgot-password', (req, res) => {
       target === currentUsername ||
       target === currentEmail ||
       target === 'admin' ||
-      target === 'rishabhric20@gmail.com'
+      (process.env.ADMIN_EMAIL && target === process.env.ADMIN_EMAIL.toLowerCase())
     );
 
     const pinInput = (securityPin || '').trim();

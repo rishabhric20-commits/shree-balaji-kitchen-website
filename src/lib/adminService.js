@@ -123,7 +123,7 @@ export const adminService = {
 
     // Default emergency fallback
     if (
-      (target === 'admin' || target === 'balaji_admin' || target === 'admin@shreebalajitiffin.in' || target === 'rishabhric20@gmail.com') &&
+      (target === 'admin' || target === 'balaji_admin' || target === 'admin@shreebalajitiffin.in') &&
       (pass === 'admin123' || pass === 'admin' || pass.length >= 4)
     ) {
       const user = { username: 'admin', email: 'admin@shreebalajitiffin.in' };

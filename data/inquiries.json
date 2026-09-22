@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Siddharth Saxena",
+    "phone": "+91 94151 22890",
+    "message": "Interested in monthly dinner subscription for 2 people in Kapoorthala, Sector C. Please confirm delivery timings.",
+    "inquiry_type": "Monthly Subscription",
+    "created_at": "2026-09-21T08:25:13.742Z"
+  },
+  {
+    "id": 2,
+    "name": "Meera Agarwal",
+    "phone": "+91 98390 44512",
+    "message": "Do you offer pure vegetarian meal options without garlic and onion for senior citizens in Aliganj?",
+    "inquiry_type": "Dietary Customization",
+    "created_at": "2026-09-22T08:14:22.110Z"
+  },
+  {
+    "id": 3,
+    "name": "Vikramaditya Pandey",
+    "phone": "+91 91258 72434",
+    "message": "Looking for bulk lunch tiffin supply for our 6-member IT team in Gomti Nagar. Requesting corporate monthly quotation.",
+    "inquiry_type": "Corporate Catering",
+    "created_at": "2026-09-22T09:45:39.897Z"
+  }
+]
